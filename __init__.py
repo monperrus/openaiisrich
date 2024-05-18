@@ -9,5 +9,5 @@ def load_json():
 DATA = load_json()
 
 def cost(model, n_prompt_tokens, n_completion_tokens):
-  model_pricing = DATA["model"]
+  model_pricing = DATA[model]
   return n_prompt_tokens/model_pricing["per_tokens"]*model_pricing["prompt"] + n_completion_tokens/model_pricing["per_tokens"]*model_pricing["completion"]

@@ -6,7 +6,7 @@ on:
       - 'testpypi'
   workflow_run:
     workflows: [CI validation]
-    branches: [master]
+    branches: [main]
     types: 
       - completed
 
