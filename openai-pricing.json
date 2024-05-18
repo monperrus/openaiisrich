@@ -19,5 +19,9 @@
     "gpt-4-32k-0613": {"prompt": 0.06, "completion": 0.12, "per_tokens": 1000},
     "gpt-4-1106-preview": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000},
     "gpt-4-0125-preview": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000},
-    "gpt-4-turbo-preview": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000}
+    "gpt-4-turbo-preview": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000},
+    "gpt-4-turbo-2024-04-09": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000},
+    "gpt-4o": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000},
+    "gpt-4o-2024-05-13": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000},
+    "gpt-4o-2024-05-13": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000}
 }

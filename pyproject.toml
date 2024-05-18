@@ -1,5 +1,6 @@
 [project]
 name = "openaiisrich"
+description = "latest pricing information of openai models, crowd maintained"
 version = "0.1"
 
 authors = [

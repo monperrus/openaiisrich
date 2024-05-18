@@ -1,8 +1,10 @@
 # openaiisrich
 
-openai is rich -- pricing information of openai as JSON.
+openai is rich -- pricing information of openai models as JSON, incl. prompt and completion costs (`n_context_tokens_total`, `n_generated_tokens_total`).
 
-pull requests welcome.
+pull requests welcome to keep the information up-to-date.
+
+automatically updated on PyPi at each commit.
 
 ## Usage
 
