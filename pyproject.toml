@@ -1,0 +1,15 @@
+[project]
+name = "openaiisrich"
+version = "0.1"
+
+authors = [
+  { name="Martin Monperrus", email="martin.monperrus@gnieh.org" },
+]
+
+readme = "README.md"
+
+[tool.setuptools]
+package-dir = {"openaiisrich" = "."}
+
+[tool.setuptools.package-data]
+"*" = ["*.json"]
