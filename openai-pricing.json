@@ -23,5 +23,7 @@
     "gpt-4-turbo-2024-04-09": {"prompt": 0.01, "completion": 0.03, "per_tokens": 1000},
     "gpt-4o": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000},
     "gpt-4o-2024-05-13": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000},
-    "gpt-4o-2024-05-13": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000}
+    "gpt-4o-2024-05-13": {"prompt": 0.005, "completion": 0.015, "per_tokens": 1000},
+    "gpt-4o-mini": {"prompt": 0.150, "completion": 0.6, "per_tokens": 1000000},
+    "gpt-4o-mini-2024-07-18": {"prompt": 0.150, "completion": 0.6, "per_tokens": 1000000}
 }
