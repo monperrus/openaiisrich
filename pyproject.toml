@@ -1,6 +1,7 @@
 [project]
 name = "openaiisrich"
-description = "latest pricing information of openai models, crowd maintained"
+description = "latest pricing information of openai models, crowd maintained via pull requests at https://github.com/monperrus/openaiisrich"
+Home-page = "https://github.com/monperrus/openaiisrich"
 version = "0.1"
 
 authors = [
